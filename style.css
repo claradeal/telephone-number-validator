@@ -3,13 +3,13 @@ body {
   padding: 40px;
 }
 img {
-  width: 100px;
-  height: 50px;
+  width: 150px;
+  height: 75px;
+  margin: 10px 40px 20px;
 }
 p {
-  /*   display: flex; */
   width: 200px;
-  margin: 40px 232px;
+  margin: 40px;
 }
 textarea {
   width: 60%;
@@ -24,7 +24,6 @@ textarea {
   margin: auto;
   display: block;
 }
-
 button {
   margin: 40px;
 }
